@@ -20,3 +20,12 @@
 				i. Reading data from files.
 				ii. Storing them in the form in memory.
 				iii. Then writing the data into json files.
+#Running build <br />
+	1. build.sh -h
+		a. Gives the help regarding the project.
+	2. build.sh 
+		a. Runs with default parallelization of 5
+	3. build.sh -p
+		a. Runs with default parallelization of 5
+	4. build.sh -p <value>
+		a. Runs with default parallelization of equal to value.
