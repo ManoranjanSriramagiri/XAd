@@ -28,7 +28,7 @@
 	3. build.sh -p
 		a. Runs with default parallelization of 5
 	4. build.sh -p <value>
-		a. Runs with default parallelization of equal to value.
+		a. Runs with parallelization of equal to value.
 #Sample screenshots <br />
  Folder Structure
 
