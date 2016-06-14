@@ -31,8 +31,10 @@
 		a. Runs with default parallelization of equal to value.
 #Sample screenshots <br />
 1. Folder Structure
-![alt tag](https://github.com/ManoranjanSriramagiri/XAd/blob/master/ScreenShots/FolderStructure.PNG)
+
+![alt text](https://github.com/ManoranjanSriramagiri/XAd/blob/master/ScreenShots/FolderStructure.PNG,"test")
 2. Sample Output
+
 ![alt tag](https://github.com/ManoranjanSriramagiri/XAd/blob/master/ScreenShots/SampleOutPut.PNG)
 3. ETL logs
 ![alt tag](https://github.com/ManoranjanSriramagiri/XAd/blob/master/ScreenShots/ETLlogs.PNG)
