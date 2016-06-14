@@ -30,9 +30,9 @@
 	4. build.sh -p <value>
 		a. Runs with default parallelization of equal to value.
 #Sample screenshots <br />
-	
-![alt tag](https://github.com/ManoranjanSriramagiri/XAd/blob/master/ScreenShots/FolderStructure.PNG,"Folder Structure")
-	2. Sample Output
-		![alt tag](https://github.com/ManoranjanSriramagiri/XAd/blob/master/ScreenShots/SampleOutPut.PNG)
-	3. ETL logs
-		![alt tag](https://github.com/ManoranjanSriramagiri/XAd/blob/master/ScreenShots/ETLlogs.PNG)
+1. Folder Structure
+![alt tag](https://github.com/ManoranjanSriramagiri/XAd/blob/master/ScreenShots/FolderStructure.PNG)
+2. Sample Output
+![alt tag](https://github.com/ManoranjanSriramagiri/XAd/blob/master/ScreenShots/SampleOutPut.PNG)
+3. ETL logs
+![alt tag](https://github.com/ManoranjanSriramagiri/XAd/blob/master/ScreenShots/ETLlogs.PNG)
