@@ -32,9 +32,12 @@
 #Sample screenshots <br />
 1. Folder Structure
 
-![alt text](https://github.com/ManoranjanSriramagiri/XAd/blob/master/ScreenShots/FolderStructure.PNG,"test")
+![alt tag](https://github.com/ManoranjanSriramagiri/XAd/blob/master/ScreenShots/FolderStructure.PNG)
+
 2. Sample Output
 
 ![alt tag](https://github.com/ManoranjanSriramagiri/XAd/blob/master/ScreenShots/SampleOutPut.PNG)
+
 3. ETL logs
+
 ![alt tag](https://github.com/ManoranjanSriramagiri/XAd/blob/master/ScreenShots/ETLlogs.PNG)
