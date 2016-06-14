@@ -1,0 +1,7 @@
+xAd\com\model\Clicks.class
+xAd\com\App.class
+xAd\com\model\Imps.class
+xAd\com\controller\MainController.class
+xAd\com\operations\ParallelReader.class
+xAd\com\operations\TimeConverter.class
+xAd\com\operations\PrintOutput.class
