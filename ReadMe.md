@@ -1,9 +1,9 @@
 #Commands to run the project<br />
-	1. mvn clean install<br />
-	2. Default parallelization<br />
-		a. java -jar target\com-0.0.1-SNAPSHOT.jar<br />
-	   Parametrized parallelization<br />
-		b. java -jar target\com-0.0.1-SNAPSHOT.jar <count><br /><br />
+	1. mvn clean install
+	2. Default parallelization
+		a. java -jar target\com-0.0.1-SNAPSHOT.jar
+	   Parametrized parallelization
+		b. java -jar target\com-0.0.1-SNAPSHOT.jar <count>
 	   
 #Help <br />
 Project structure<br />
