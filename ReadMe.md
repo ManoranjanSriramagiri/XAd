@@ -11,7 +11,7 @@
 		a. Controller
 			It is the main contoller will call all other methods.<br />
 		b. Model 
-		This contains bean classes
+		  This contains bean classes
 			i. Clicks
 			ii. Imps
 		c. Operations 
