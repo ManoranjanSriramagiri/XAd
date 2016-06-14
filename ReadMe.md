@@ -20,7 +20,7 @@
 				i. Reading data from files.
 				ii. Storing them in the form in memory.
 				iii. Then writing the data into json files.
-#Running build <br />
+#Running build.sh <br />
 	1. build.sh -h
 		a. Gives the help regarding the project.
 	2. build.sh 
