@@ -1,5 +1,5 @@
 Commands to run the project<br />
-	1. mvn clean install
+<br /><tb\>	1. mvn clean install
 	2. Default parallelization
 		a. java -jar target\com-0.0.1-SNAPSHOT.jar
 	   Parametrized parallelization
