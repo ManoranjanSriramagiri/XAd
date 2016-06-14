@@ -1,9 +1,9 @@
 #Commands to run the project<br />
 	1. mvn clean install
 	2. Default parallelization
-		a. java -jar target\com-0.0.1-SNAPSHOT.jar
+		a. java -jar target/com-0.0.1-SNAPSHOT.jar
 	   Parametrized parallelization
-		b. java -jar target\com-0.0.1-SNAPSHOT.jar <count>
+		b. java -jar target/com-0.0.1-SNAPSHOT.jar <count>
 	   
 #Help <br />
 ##Project structure
@@ -30,14 +30,14 @@
 	4. build.sh -p <value>
 		a. Runs with parallelization of equal to value.
 #Sample screenshots <br />
- Folder Structure
+ ####Folder Structure
 
 ![alt tag](https://github.com/ManoranjanSriramagiri/XAd/blob/master/ScreenShots/FolderStructure.PNG)
 
- Sample Output
+ ####Sample Output
 
 ![alt tag](https://github.com/ManoranjanSriramagiri/XAd/blob/master/ScreenShots/SampleOutPut.PNG)
 
- ETL logs
+ ####ETL logs
 
 ![alt tag](https://github.com/ManoranjanSriramagiri/XAd/blob/master/ScreenShots/ETLlogs.PNG)
