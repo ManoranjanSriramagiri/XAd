@@ -6,15 +6,15 @@
 		b. java -jar target\com-0.0.1-SNAPSHOT.jar <count>
 	   
 #Help <br />
-Project structure<br />
-	1. This project is divided into 3 parts<br />
-		a. Controller<br />
+##Project structure<br />
+###	1. This project is divided into 3 parts<br />
+		####a. Controller<br />
 			It is the main contoller will call all other methods.<br />
-		b. Model <br />
+	####	b. Model <br />
 		This contains bean classes<br />
 			i. Clicks<br />
 			ii. Imps<br />
-		c. Operations <br />
+	####	c. Operations <br />
 			In this package we have Classes which perform operations on data <br />
 			Like <br />
 				i. Reading data from files.<br />
